@@ -44,7 +44,7 @@
    python -m onnxsim best.onnx best-sim.onnx
    ```
 
-4. 转化为 ncnn 文件用于部署，在 [这里](https://convertmodel.com/) 转换。
+4. 将 剪枝后的文件 转化为 ncnn 文件用于部署，在 [这里](https://convertmodel.com/) 转换。
 
    ![image-20220702161803216](https://github.com/Eric-is-good/yolov5_with_ncnn/blob/main/image.png)
 

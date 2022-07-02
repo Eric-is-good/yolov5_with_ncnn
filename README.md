@@ -46,7 +46,7 @@
 
 4. 转化为 ncnn 文件用于部署，在 [这里](https://convertmodel.com/) 转换。
 
-   ![image-20220702161803216](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220702161803216.png)
+   ![image-20220702161803216](https://github.com/Eric-is-good/yolov5_with_ncnn/blob/main/image.png)
 
 5. 将 .param 和 .bin 替换 安卓工程的 ncnn-android-yolov5/app/src/main/assets/ 即可
 

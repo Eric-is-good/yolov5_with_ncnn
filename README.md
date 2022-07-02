@@ -30,7 +30,7 @@
 
 2. 参照 [yolov5](https://github.com/ultralytics/yolov5) 官方教程即可，在训练结果中得到 best.pt 文件。
 
-3. 使用 export.py 到处 onnx 格式，**注意**，必须要 带有 --train ，例如
+3. 使用 export.py 导出 onnx 格式，**注意**，必须要 带有 --train ，例如
 
    ```python
    python export.py --train
